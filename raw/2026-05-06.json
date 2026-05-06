@@ -1,0 +1,21 @@
+{
+  "fetched_at": "2026-05-06T12:24:57.680Z",
+  "articles": [
+    {
+      "id": "7d915e0097611e5c6b8db2ac09cfa6d71412eae68a0ca5d75316414d90add894",
+      "url": "https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/",
+      "title": "NVIDIA Spectrum-X — the Open, AI-Native Ethernet Fabric — Sets the Standard for Gigascale AI, Now With MRC",
+      "published_at": "2026-05-06",
+      "source": "nvidia-blog",
+      "body_text": "The race to build the world’s most powerful AI factories demands networking that keeps pace with the ambitions of AI itself. NVIDIA Spectrum-X Ethernet scale-out infrastructure stands at the forefront of that race as the most advanced AI networking technology available today, deployed by industry leaders who can’t afford to compromise on performance, resilience or […]"
+    },
+    {
+      "id": "d1eac09276d1bbbe53290f48730e53630abf7dcaa14587df59ada62ffdcc0e0d",
+      "url": "https://blogs.nvidia.com/blog/servicenow-autonomous-ai-agents-enterprises/",
+      "title": "NVIDIA and ServiceNow Partner on New Autonomous AI Agents for Enterprises",
+      "published_at": "2026-05-05",
+      "source": "nvidia-blog",
+      "body_text": "Enterprise AI has learned to generate. It has learned to reason. Now companies are asking the next question: How should AI act? Early agent systems have shown what’s possible, moving beyond simple prompts to take on more complex tasks. The next step is bringing those capabilities into enterprise environments — where agents must operate with […]"
+    }
+  ]
+}
