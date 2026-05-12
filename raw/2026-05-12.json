@@ -1,0 +1,13 @@
+{
+  "fetched_at": "2026-05-12T13:02:15.929Z",
+  "articles": [
+    {
+      "id": "b87c79bc90078160535c921c0f2a8f7703ed047497c3bdd012eca51f6e2031e3",
+      "url": "https://blogs.nvidia.com/blog/sap-specialized-agents/",
+      "title": "NVIDIA and SAP Bring Trust to Specialized Agents",
+      "published_at": "2026-05-12",
+      "source": "nvidia-blog",
+      "body_text": "Announced today at SAP Sapphire — where NVIDIA founder and CEO Jensen Huang joined SAP CEO Christian Klein’s keynote by video — SAP and NVIDIA’s expanded collaboration helps enterprises run specialized agents with security and governance controls."
+    }
+  ]
+}
