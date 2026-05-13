@@ -1,0 +1,21 @@
+{
+  "fetched_at": "2026-05-13T13:08:07.406Z",
+  "articles": [
+    {
+      "id": "a1ab2a14485e233eeb15253168d4f80504c047db40cea8d03d8f6bbbea068ba8",
+      "url": "https://blogs.nvidia.com/blog/ineffable-intelligence-reinforcement-learning-infrastructure/",
+      "title": "NVIDIA, Ineffable Intelligence Team Up to Build the Future of Reinforcement Learning Infrastructure",
+      "published_at": "2026-05-13",
+      "source": "nvidia-blog",
+      "body_text": "Reinforcement-learning agents — AI systems that learn by trial and error — can convert computation into new knowledge. That’s the focus of a new engineering-level collaboration between NVIDIA and Ineffable Intelligence, the London-based AI lab founded by AlphaGo architect David Silver in the wake of Ineffable’s emergence from stealth last week. “The next frontier of […]"
+    },
+    {
+      "id": "f42e1aa454a61f6e7657f2d0b3f68e39eb5d882202358540885ed1f03043b664",
+      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-hermes-agent-dgx-spark/",
+      "title": "Hermes Unlocks Self-Improving AI Agents, Powered by NVIDIA RTX PCs and DGX Spark",
+      "published_at": "2026-05-13",
+      "source": "nvidia-blog",
+      "body_text": "Agentic AI is changing the way users get work done. Following the success of OpenClaw, the community is embracing new open source agentic frameworks. The latest is Hermes Agent, which crossed 140,000 GitHub stars in under three months."
+    }
+  ]
+}
