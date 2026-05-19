@@ -1,0 +1,21 @@
+{
+  "fetched_at": "2026-05-19T13:52:42.421Z",
+  "articles": [
+    {
+      "id": "04adabfaeeb9c28e21b30508a9e2786252f430e5414d17b5042fbe4350a9f825",
+      "url": "https://blogs.nvidia.com/blog/dell-technologies-agent-enterprise-ai/",
+      "title": "NVIDIA CEO Jensen Huang at Dell Technologies World: ‘Demand Is Going Parabolic, Utterly Parabolic’",
+      "published_at": "2026-05-18",
+      "source": "nvidia-blog",
+      "body_text": "Agentic AI inference at one-tenth the cost per token with NVIDIA Vera Rubin NVL72. Agent sandboxes run 50% faster on NVIDIA Vera than traditional CPUs — while enterprise data queries are up to 3x faster with the Vera CPU. And 5,000 enterprises like Lilly, Samsung and Honeywell are running AI workloads on Dell AI Factories […]"
+    },
+    {
+      "id": "66d1ddc58948150bffee973a973c2b8e804c5d2acb4bedf0427443e9c0426249",
+      "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
+      "title": "Vera Arrives: NVIDIA’s First CPU Built for Agents Lands at Top AI Labs",
+      "published_at": "2026-05-18",
+      "source": "nvidia-blog",
+      "body_text": "The first NVIDIA Vera CPUs arrived at three of the world's leading AI labs on Friday — Anthropic in San Francisco, OpenAI in Mission Bay, SpaceXAI in Palo Alto — followed by a delivery to Oracle Cloud Infrastructure in Santa Clara on Monday. NVIDIA Vice President of Hyperscale and High-Performance Computing Ian Buck hand-delivered them."
+    }
+  ]
+}
