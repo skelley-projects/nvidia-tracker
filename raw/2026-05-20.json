@@ -1,0 +1,13 @@
+{
+  "fetched_at": "2026-05-20T13:34:45.547Z",
+  "articles": [
+    {
+      "id": "a1b9ef452f2beb6f8195adfec58da2a9e529d6bfb80ccf02e45d7c90a6396a30",
+      "url": "https://blogs.nvidia.com/blog/google-cloud-developer-community-ai-builders/",
+      "title": "NVIDIA and Google Cloud Empower the Next Wave of AI Builders",
+      "published_at": "2026-05-19",
+      "source": "nvidia-blog",
+      "body_text": "At this year’s Google I/O conference, NVIDIA and Google Cloud are accelerating the work of more than 100,000 developers in the companies’ joint developer community, which provides curated learning paths, hands-on labs and events that help them build using the full-stack NVIDIA AI platform on Google Cloud. Launched at Google I/O last year, the community […]"
+    }
+  ]
+}
