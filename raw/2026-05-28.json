@@ -1,0 +1,13 @@
+{
+  "fetched_at": "2026-05-28T14:32:22.088Z",
+  "articles": [
+    {
+      "id": "dd564b004a53e5808ddf48661ed730aa180c54af3d467acf4b3240d704707329",
+      "url": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/",
+      "title": "NVIDIA Research Advances Robotics From Simulation to the Real World",
+      "published_at": "2026-05-28",
+      "source": "nvidia-blog",
+      "body_text": "Robotics is entering a new phase: moving from controlled demos and scripted automation toward generalizable, reliable embodied autonomy in the real world. At the International Conference on Robotics and Automation (ICRA), eight of NVIDIA Research’s 28 accepted papers show how simulation-to-real transfer is becoming a foundation for that shift, helping robots perceive, reason, plan and […]"
+    }
+  ]
+}
