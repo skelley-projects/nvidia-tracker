@@ -1,0 +1,13 @@
+{
+  "fetched_at": "2026-06-02T14:46:54.235Z",
+  "articles": [
+    {
+      "id": "c3223f6c044d762a8f737b9f6d6d19899c2ca40becce4c8f2453de16a0258685",
+      "url": "https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/",
+      "title": "NVIDIA Jetson Brings Agentic AI to the Physical World",
+      "published_at": "2026-06-02",
+      "source": "nvidia-blog",
+      "body_text": "Agentic AI is getting physical. At COMPUTEX on Tuesday, NVIDIA announced NVIDIA JetPack 7.2 and NVIDIA NemoClaw support on NVIDIA Jetson. JetPack 7.2 brings agentic AI skills, Yocto project support, NVIDIA CUDA 13 on NVIDIA Jetson Orin, a substantial performance gain on Jetson AGX Orin 32GB module and Multi-Instance GPU (MIG) support on NVIDIA Jetson […]"
+    }
+  ]
+}
