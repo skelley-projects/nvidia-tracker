@@ -1,0 +1,37 @@
+{
+  "fetched_at": "2026-06-03T15:25:38.597Z",
+  "articles": [
+    {
+      "id": "d653d483715b11292e484578c68f06ae79388b5a944daf29cc441a82294fd64f",
+      "url": "https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/",
+      "title": "NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale",
+      "published_at": "2026-06-03",
+      "source": "nvidia-blog",
+      "body_text": "What makes a robot gripper useful isn’t that it can pick up one object — it’s that it can pick up the next one, and the one after that, with a tool it’s never held before. What makes an autonomous vehicle system safe isn’t just that it can reason through a situation — it’s that […]"
+    },
+    {
+      "id": "00bf30d7ffbed4258902be0491df98824b7523da158795b6dca689bf452f37eb",
+      "url": "https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/",
+      "title": "NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI",
+      "published_at": "2026-06-03",
+      "source": "nvidia-blog",
+      "body_text": "At CVPR, NVIDIA is unveiling new physical AI agent skills that help researchers and developers speed the development of autonomous vehicles, robots and vision AI systems. The core challenge in physical AI research isn’t simply developing stronger models. It’s building a full workflow around them — reconstructing real-world scenes, generating edge-case scenarios, training policies, evaluating […]"
+    },
+    {
+      "id": "6ff7090ec46dbcf45e4b4e7b9547577123dd53b5eb701ee6b5696aeed715a040",
+      "url": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/",
+      "title": "Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw",
+      "published_at": "2026-06-02",
+      "source": "nvidia-blog",
+      "body_text": "Accelerated computing has revolutionized industrial engineering, compressing simulation times from weeks to hours. Today’s remaining challenges sit in the end-to-end workflow surrounding the simulations: computer-aided design, meshing, simulation setup and debugging, as well as post-processing and generating summary reports of these processes. At GTC Taipei at COMPUTEX, NVIDIA and more than a dozen engineering software […]"
+    },
+    {
+      "id": "b3b641c0d6d372b752ffb79487c1cb39b88fff8a1ce563ee0e11e8e62205cfb8",
+      "url": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/",
+      "title": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
+      "published_at": "2026-06-02",
+      "source": "nvidia-blog",
+      "body_text": "The agentic AI moment has arrived, but delivering on its promise requires more than good models. It also takes fast hardware, secure runtimes, a responsive data layer and models tuned for long-running reasoning. NVIDIA and Microsoft are bringing that full stack to developers across Windows devices, Azure cloud and local deployments. At Microsoft Build, NVIDIA […]"
+    }
+  ]
+}
