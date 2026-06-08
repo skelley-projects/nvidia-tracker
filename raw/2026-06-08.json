@@ -1,0 +1,29 @@
+{
+  "fetched_at": "2026-06-08T14:43:50.196Z",
+  "articles": [
+    {
+      "id": "1b7451e056ac9e8780a04639e03d95634d4be2a76987a07865a18ceeef7eb6c6",
+      "url": "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/",
+      "title": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
+      "published_at": "2026-06-08",
+      "source": "nvidia-blog",
+      "body_text": "A year ago at London Tech Week, NVIDIA founder and CEO Jensen Huang and U.K. Prime Minister Keir Starmer made a declaration: the U.K. would be an AI maker, not an AI taker. At this year’s event, NVIDIA and its partners are showcasing how that commitment is producing real momentum across the nation’s infrastructure, startups […]"
+    },
+    {
+      "id": "a20f3afa16f57d2ec1e752a6a52882c2897741b691666c777c2660a8b6258102",
+      "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
+      "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
+      "published_at": "2026-06-08",
+      "source": "nvidia-blog",
+      "body_text": "NVIDIA and LG Group are building an AI factory to accelerate LG Group’s next wave of AI-driven businesses, spanning robotics, autonomous driving, data center technologies and GPU cloud services. The AI factory will provide LG Group with accelerated computing infrastructure to train, simulate, validate and deploy AI-based applications across its key businesses. The collaboration brings […]"
+    },
+    {
+      "id": "2f71400fdd4022588f090f1c99ca0e6906b5631100c24f2806637cf76bac7682",
+      "url": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
+      "title": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
+      "published_at": "2026-06-07",
+      "source": "nvidia-blog",
+      "body_text": "NVIDIA and Doosan Group are expanding their collaboration to advance new opportunities across physical AI, robotics and AI factory infrastructure, spanning Doosan Robotics, Doosan Bobcat, Doosan Enerbility and Doosan Corporation Electro-Materials BG. The collaboration will bring together NVIDIA’s full-stack accelerated computing platforms with Doosan Group’s capabilities in industrial automation, power generation and advanced electronics materials […]"
+    }
+  ]
+}
