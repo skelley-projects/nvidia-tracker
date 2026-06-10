@@ -1,0 +1,13 @@
+{
+  "fetched_at": "2026-06-10T14:19:43.242Z",
+  "articles": [
+    {
+      "id": "53ab850e16a9cf5c1b62d5c91a22d2d55d66d5b31e3ebf542c166abe6459acd9",
+      "url": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/",
+      "title": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
+      "published_at": "2026-06-09",
+      "source": "nvidia-blog",
+      "body_text": "NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute (PCC), as it expands beyond Apple’s data centers to Google Cloud. Unveiled during Apple’s annual WWDC gathering for developers from around the globe, NVIDIA GPUs will support server-side inference for Apple Foundation Models, custom-built by Apple and Google, leveraging […]"
+    }
+  ]
+}
