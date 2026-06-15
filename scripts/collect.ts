@@ -20,31 +20,60 @@ async function main() {
 
   const newArticles: Article[] = [];
 
-  for (const source of sources) {
-    try {
-      console.log(`Fetching ${source.name}...`);
-      const items = source.type === 'rss'
-        ? await fetchRss(source.url)
-        : await fetchNewsroom(source.url);
+  // Group sources by hostname: different domains run in parallel, but a single
+  // domain stays polite — its requests go sequentially with the delay between
+  // them. Items are deduped against the shared `existingIds` set (each item's
+  // check-and-add is synchronous, so concurrent sources can't double-add an id),
+  // and results are reassembled in the original source order below.
+  const byDomain = new Map<string, { source: (typeof sources)[number]; idx: number }[]>();
+  sources.forEach((source, idx) => {
+    let host: string;
+    try { host = new URL(source.url).hostname; } catch { host = source.url; }
+    const group = byDomain.get(host) ?? [];
+    group.push({ source, idx });
+    byDomain.set(host, group);
+  });
 
-      for (const item of items) {
-        const id = hashUrl(item.url);
-        if (existingIds.has(id)) continue;
-        if (!isRelevant({ title: item.title, body_text: item.body_text })) continue;
-        newArticles.push({
-          id,
-          url: item.url,
-          title: item.title,
-          published_at: item.published_at,
-          source: source.name,
-          body_text: item.body_text
-        });
-        existingIds.add(id);
+  const perSource = new Map<number, Article[]>();
+  await Promise.all(
+    Array.from(byDomain.values()).map(async (group) => {
+      for (let i = 0; i < group.length; i++) {
+        const { source, idx } = group[i];
+        const collected: Article[] = [];
+        try {
+          console.log(`Fetching ${source.name}...`);
+          const items = source.type === 'rss'
+            ? await fetchRss(source.url)
+            : await fetchNewsroom(source.url);
+
+          for (const item of items) {
+            const id = hashUrl(item.url);
+            if (existingIds.has(id)) continue;
+            if (!isRelevant({ title: item.title, body_text: item.body_text })) continue;
+            existingIds.add(id);
+            collected.push({
+              id,
+              url: item.url,
+              title: item.title,
+              published_at: item.published_at,
+              source: source.name,
+              body_text: item.body_text
+            });
+          }
+        } catch (err) {
+          console.error(`✗ ${source.name} failed:`, (err as Error).message);
+        }
+        perSource.set(idx, collected);
+        // Politeness: delay only between consecutive requests to the SAME domain.
+        if (i < group.length - 1) await sleep(POLITE_DELAY_MS);
       }
-      await sleep(POLITE_DELAY_MS);
-    } catch (err) {
-      console.error(`✗ ${source.name} failed:`, (err as Error).message);
-    }
+    }),
+  );
+
+  // Reassemble in original source order so output ordering stays stable.
+  for (let i = 0; i < sources.length; i++) {
+    const arr = perSource.get(i);
+    if (arr) newArticles.push(...arr);
   }
 
   if (newArticles.length === 0) {
