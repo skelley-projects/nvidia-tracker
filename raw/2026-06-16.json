@@ -1,0 +1,13 @@
+{
+  "fetched_at": "2026-06-16T15:49:44.254Z",
+  "articles": [
+    {
+      "id": "e8dbce4d8e30e837de58a34a3cd59a84e1595e3a7a20b0848682d302af0dcf94",
+      "url": "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/",
+      "title": "Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0",
+      "published_at": "2026-06-16",
+      "source": "nvidia-blog",
+      "body_text": "Every breakthrough AI model starts the same way: with a training run. The infrastructure running those training jobs shapes everything: how fast teams can iterate, what scale of model they can build and whether those jobs complete reliably. As models grow in size, complexity and intelligence, the demands on training infrastructure are also rising. In […]"
+    }
+  ]
+}
