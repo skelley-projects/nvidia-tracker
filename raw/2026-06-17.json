@@ -1,0 +1,21 @@
+{
+  "fetched_at": "2026-06-17T14:23:59.018Z",
+  "articles": [
+    {
+      "id": "5e588b5aa6acd1452005ac9362de81c680df809b5b0752b26481eeb5536f97fb",
+      "url": "https://blogs.nvidia.com/blog/nvidia-xr-ai/",
+      "title": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
+      "published_at": "2026-06-16",
+      "source": "nvidia-blog",
+      "body_text": "NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices."
+    },
+    {
+      "id": "44c5c0c45647de1963244064846a0549d9e8fc8b67c5b9672745b038c183760d",
+      "url": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
+      "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
+      "published_at": "2026-06-16",
+      "source": "nvidia-blog",
+      "body_text": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, June 18, NVIDIA and HPE are expanding the HPE AI Factory with NVIDIA, including NVIDIA Vera CPU and NVIDIA Agent Toolkit […]"
+    }
+  ]
+}
