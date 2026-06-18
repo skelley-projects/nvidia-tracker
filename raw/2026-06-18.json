@@ -1,0 +1,21 @@
+{
+  "fetched_at": "2026-06-18T13:58:42.351Z",
+  "articles": [
+    {
+      "id": "27e44c6796ec151ad0c55e22bf82e4ba3bb0147de90f986f120a22cefdbab870",
+      "url": "https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/",
+      "title": "At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI",
+      "published_at": "2026-06-18",
+      "source": "nvidia-blog",
+      "body_text": "The digital era gave the advertising and marketing industry speed; the AI era is giving it autonomous operations. For companies building next-generation technologies for advertising and marketing, the question is no longer whether to adopt AI but whether their infrastructure can support it at the speed and scale the industry demands. At Cannes Lions, running […]"
+    },
+    {
+      "id": "f051fd9404ae4b72ccf4cc4fe11be866817d69a5eb6afdaf85e773853aaafb16",
+      "url": "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/",
+      "title": "France Advances Europe’s AI Future With NVIDIA Technologies",
+      "published_at": "2026-06-18",
+      "source": "nvidia-blog",
+      "body_text": "A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity to open frontier models and industrial platforms. Now, that AI infrastructure is coming online. AI agents are running in production, startups are deploying applications and the French AI ecosystem […]"
+    }
+  ]
+}
