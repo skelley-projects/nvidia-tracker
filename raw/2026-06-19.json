@@ -1,0 +1,13 @@
+{
+  "fetched_at": "2026-06-19T13:58:47.181Z",
+  "articles": [
+    {
+      "id": "b615c94606ab70466f982a7dba6918d0b0adf0011e2b9230b388869d30ec1b57",
+      "url": "https://blogs.nvidia.com/blog/ferc-large-load-interconnection/",
+      "title": "How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability",
+      "published_at": "2026-06-18",
+      "source": "nvidia-blog",
+      "body_text": "In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor fabrication support systems and advanced manufacturing facilities can connect to the grid. In the era of AI, which NVIDIA founder and CEO Jensen Huang has described as a […]"
+    }
+  ]
+}
