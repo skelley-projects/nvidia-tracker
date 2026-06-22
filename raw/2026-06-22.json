@@ -1,0 +1,53 @@
+{
+  "fetched_at": "2026-06-22T15:47:53.141Z",
+  "articles": [
+    {
+      "id": "b615982ee9666c05ea3550583bc6279071b2b82a375d6fff891c2d941773ca29",
+      "url": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/",
+      "title": "At ISC, JUPITER Shows What Exascale Science Looks Like",
+      "published_at": "2026-06-22",
+      "source": "nvidia-blog",
+      "body_text": "JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year. As the international supercomputing community gathers at ISC in Hamburg this week, four projects running on JUPITER point to what exascale computing can actually do: map the human […]"
+    },
+    {
+      "id": "ce9afdae44425f83a95c50081fa66854b0c390be5401adc1281c1e84d0fc235e",
+      "url": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/",
+      "title": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
+      "published_at": "2026-06-22",
+      "source": "nvidia-blog",
+      "body_text": "For the past two years, the U.S. National Science Foundation’s National Artificial Intelligence Research Resource (NAIRR) pilot program has driven innovative research across the U.S. for over 700 projects — spanning protein prediction and infectious disease outbreak management. NVIDIA contributed to the NAIRR pilot through a cloud-based resource that gives researchers dedicated access to a […]"
+    },
+    {
+      "id": "fb8c109099782381df8d2d539b282907c62a7fae52404a70bfdc7d0a62e0a1b1",
+      "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
+      "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+      "published_at": "2026-06-22",
+      "source": "nvidia-blog",
+      "body_text": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code, coming soon — turn work that […]"
+    },
+    {
+      "id": "02ff0a3617184bb993e5fd100b10383ac8b2eba8b57e73f6a29e60eb2804848e",
+      "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
+      "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+      "published_at": "2026-06-22",
+      "source": "nvidia-blog",
+      "body_text": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with the NVIDIA Vera Rubin platform, combining NVIDIA Vera CPUs, NVIDIA […]"
+    },
+    {
+      "id": "5fc3cd7fd826623a96417e4bd319de37d823f6477bde3737b421dff3d3b4cfce",
+      "url": "https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/",
+      "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
+      "published_at": "2026-06-22",
+      "source": "nvidia-blog",
+      "body_text": "The next era of AI will not be defined by compute alone. Its growth will be determined by energy. As accelerated computing scales across AI factories, agentic AI, industrial AI, edge computing and physical AI — including robotics and autonomous systems — global electricity demand is rising at unprecedented speed. In many regions, expanding grid […]"
+    },
+    {
+      "id": "d678054b8fd245a2127d104479b8f166cdf0dcffddf0617e63f6e1c300a8d094",
+      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+      "title": "Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines",
+      "published_at": "2026-06-22",
+      "source": "nvidia-blog",
+      "body_text": "Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes. NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113 degrees Fahrenheit. That higher temperature limit is precisely what makes them more energy efficient. […]"
+    }
+  ]
+}
