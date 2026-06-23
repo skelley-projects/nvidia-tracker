@@ -1,0 +1,21 @@
+{
+  "fetched_at": "2026-06-23T13:38:51.888Z",
+  "articles": [
+    {
+      "id": "01711e775cdcfa569263af151586ea57a65f95a477921228b2fdf08a2026a5f9",
+      "url": "https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/",
+      "title": "NVIDIA Powers Over 400 of the World’s 500 Fastest Supercomputers",
+      "published_at": "2026-06-23",
+      "source": "nvidia-blog",
+      "body_text": "News Highlights: NVIDIA technology runs 81% of the TOP500 and 90% of the systems new to the list. 26 systems on the TOP500 adopted the NVIDIA Grace CPU, up eight from the previous list. The top eight systems on the Green500 run on NVIDIA GPUs and nine of the top 10 use NVIDIA technologies. No. […]"
+    },
+    {
+      "id": "3ed3b8ae2fbfd862b963ac86ff60b439c2e08f4a3da79c8c103100215cbc97bb",
+      "url": "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/",
+      "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
+      "published_at": "2026-06-23",
+      "source": "nvidia-blog",
+      "body_text": "Telecom operators have seen remarkable returns from using generative AI to automate network management, customer care and back-office operations. Most of that impact has been task‑based: automation that speeds up predetermined steps while people manually correlate insights and direct next steps. Automation is no longer the finish line — it’s the launchpad to autonomy. The […]"
+    }
+  ]
+}
