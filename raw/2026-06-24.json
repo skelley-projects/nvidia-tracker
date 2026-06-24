@@ -1,0 +1,13 @@
+{
+  "fetched_at": "2026-06-24T13:13:43.425Z",
+  "articles": [
+    {
+      "id": "dca39fe0489bebd009d2ceff8e8de3af0f5b7960bc9b40dc877c1e7057776420",
+      "url": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
+      "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
+      "published_at": "2026-06-24",
+      "source": "nvidia-blog",
+      "body_text": "Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity. NVIDIA’s latest work with Amazon Web Services (AWS) addresses each of those constraints. Across Amazon OpenSearch and Amazon EC2, NVIDIA AI infrastructure is giving enterprises more practical paths to deploy […]"
+    }
+  ]
+}
