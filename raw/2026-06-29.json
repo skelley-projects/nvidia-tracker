@@ -1,0 +1,13 @@
+{
+  "fetched_at": "2026-06-29T14:43:51.561Z",
+  "articles": [
+    {
+      "id": "975ccdc802187eff7650a353894b5009426cc481ec9b02872e032499726f48d1",
+      "url": "https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/",
+      "title": "Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron",
+      "published_at": "2026-06-29",
+      "source": "nvidia-blog",
+      "body_text": "Showcasing the importance of open source innovation in American AI, Palantir’s new intelligent engine — introduced today — uses NVIDIA Nemotron open models to serve the needs of U.S. government agencies. Open source software has long been a pillar of U.S. technology leadership. In 1969, DARPA connected four university computers — from UCLA, Stanford, UCSB […]"
+    }
+  ]
+}
