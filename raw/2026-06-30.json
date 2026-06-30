@@ -1,0 +1,21 @@
+{
+  "fetched_at": "2026-06-30T13:05:50.712Z",
+  "articles": [
+    {
+      "id": "0d320457f7e21f4664dcea849a1e4b83a04700b7910c578d3756fa5d5204df41",
+      "url": "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/",
+      "title": "Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure",
+      "published_at": "2026-06-29",
+      "source": "nvidia-blog",
+      "body_text": "Anthropic’s Claude models in Microsoft Foundry — hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs — are now generally available, giving Azure-native enterprises a powerful new way to build autonomous and domain-specific AI agents. As agentic AI continues to drive enterprise innovation and becomes more autonomous, organizations need access to computing […]"
+    },
+    {
+      "id": "d0f1bad43e89d5eb3632544722b4381100d256801a59e45a2cbd2f1c478f803c",
+      "url": "https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/",
+      "title": "Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time",
+      "published_at": "2026-06-29",
+      "source": "nvidia-blog",
+      "body_text": ""
+    }
+  ]
+}
