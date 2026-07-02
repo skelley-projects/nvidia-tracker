@@ -1,0 +1,13 @@
+{
+  "fetched_at": "2026-07-02T12:54:00.734Z",
+  "articles": [
+    {
+      "id": "817f7ea65bdfd434c380313f6795f5947bfd9cc93212afa84e2bb2a6a3b416a7",
+      "url": "https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/",
+      "title": "NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout",
+      "published_at": "2026-07-02",
+      "source": "nvidia-blog",
+      "body_text": "As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale. This shift requires access to large‑scale, multi‑tenant accelerated computing that can come online quickly, stay highly utilized and support the economics of token‑scale AI services. Emerging AI companies historically have […]"
+    }
+  ]
+}
