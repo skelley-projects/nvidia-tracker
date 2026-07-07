@@ -1,0 +1,21 @@
+{
+  "fetched_at": "2026-07-07T13:12:42.303Z",
+  "articles": [
+    {
+      "id": "40cd61882ce63afd9a83d229d5992e6ea55d3ff3f948dc46b9dffd6d8993a59e",
+      "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+      "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
+      "published_at": "2026-07-07",
+      "source": "nvidia-blog",
+      "body_text": "Open source AI has shown how quickly developers can innovate when models, data and tools are shared. Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and fragmented resources, from large datasets and robot foundation models to simulation, compute and validation tools. NVIDIA and Hugging Face are […]"
+    },
+    {
+      "id": "e7adbc5a26a51e5e215af3cc3d19117922ffda361bcac28713f6e00a56763399",
+      "url": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
+      "title": "How Open Models Are Driving AI Research",
+      "published_at": "2026-07-06",
+      "source": "nvidia-blog",
+      "body_text": "Every year, the International Conference on Machine Learning (ICML) reveals where thousands of AI researchers have decided to put their work. This year’s accepted papers reveal a clear direction: open frontier models and open AI infrastructure have become foundational to how modern AI science gets done. NVIDIA had 74 papers accepted at ICML 2026. Approximately […]"
+    }
+  ]
+}
