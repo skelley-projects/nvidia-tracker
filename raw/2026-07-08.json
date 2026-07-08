@@ -1,0 +1,13 @@
+{
+  "fetched_at": "2026-07-08T12:15:35.497Z",
+  "articles": [
+    {
+      "id": "060bc23cd3ea206ba919fed72822eabe5f251e8725ebd4ab42d273c8fe898ce6",
+      "url": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
+      "title": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
+      "published_at": "2026-07-07",
+      "source": "nvidia-blog",
+      "body_text": "Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era. Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and learning. CPUs are the processor which executes the work the AI model commands: the tool calling, code […]"
+    }
+  ]
+}
