@@ -1,0 +1,13 @@
+{
+  "fetched_at": "2026-07-16T12:15:32.763Z",
+  "articles": [
+    {
+      "id": "85f482f3f904d00f68946a80cc6d1fd07bdf050719930ed9f8c6dc09c80881e2",
+      "url": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
+      "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
+      "published_at": "2026-07-15",
+      "source": "nvidia-blog",
+      "body_text": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge. To meet that need, NVIDIA today introduced the T3000 and T2000, new modules based on the NVIDIA Thor architecture that enable mass-market robotics and edge AI […]"
+    }
+  ]
+}
