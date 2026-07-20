@@ -1,0 +1,13 @@
+{
+  "fetched_at": "2026-07-20T13:01:28.462Z",
+  "articles": [
+    {
+      "id": "b4ddc90482832cbb50579f2a4a2fa9dc805c902662dd9aee5f33ce34cf8dc3e7",
+      "url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
+      "title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin ",
+      "published_at": "2026-07-20",
+      "source": "nvidia-blog",
+      "body_text": "Erin Davis calls it the “SuperDuperPOD.” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI clusters in life sciences, with serious results to show for it. And they’re doubling down. BMS announced today it is deploying its second NVIDIA DGX SuperPOD, this one built on […]"
+    }
+  ]
+}
