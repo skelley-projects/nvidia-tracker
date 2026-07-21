@@ -1,0 +1,13 @@
+{
+  "fetched_at": "2026-07-21T12:20:21.676Z",
+  "articles": [
+    {
+      "id": "70c1acaa81ba6cd1c84a673dd8c870a55d126f7e9ae1856bf12a6a9f50ea430a",
+      "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+      "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
+      "published_at": "2026-07-20",
+      "source": "nvidia-blog",
+      "body_text": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics."
+    }
+  ]
+}
