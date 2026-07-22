@@ -1,0 +1,29 @@
+{
+  "fetched_at": "2026-07-22T12:22:31.803Z",
+  "articles": [
+    {
+      "id": "21f1e1f3e19b1a5bf0af3cb73a47332243ba142f8c7af10d5a39d4bdd0af02cb",
+      "url": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
+      "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
+      "published_at": "2026-07-21",
+      "source": "nvidia-blog",
+      "body_text": "The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most capable AI systems. In front of an audience of Wistron […]"
+    },
+    {
+      "id": "ffef75ffd9647e2c722b429ebbd77200b08f5f5b7e7aae8f26daa6009c3df1ed",
+      "url": "https://blogs.nvidia.com/blog/vera-rubin/",
+      "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
+      "published_at": "2026-07-21",
+      "source": "nvidia-blog",
+      "body_text": "NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure. Spanning 350+ factory sites in 30 countries, Vera Rubin has the largest, most mature rack-scale supply chain ever assembled to meet customer compute demand. The […]"
+    },
+    {
+      "id": "6f3401cebeb5dc5a8f12a872f821e0d546f1d35ac4dd7180481ec32fbb691eb9",
+      "url": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
+      "title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
+      "published_at": "2026-07-21",
+      "source": "nvidia-blog",
+      "body_text": "AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier models, power agentic AI and generate intelligence at unprecedented scale. At this level, networking becomes a critical computing power multiplier in driving token generation. Marking a networking milestone, NVIDIA Spectrum-6 […]"
+    }
+  ]
+}
