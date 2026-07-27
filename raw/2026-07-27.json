@@ -1,0 +1,13 @@
+{
+  "fetched_at": "2026-07-27T13:34:00.990Z",
+  "articles": [
+    {
+      "id": "993033182d201aad3f1dc76cef3267259aabe9af380f3d0919ad746d036acdd5",
+      "url": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
+      "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
+      "published_at": "2026-07-27",
+      "source": "nvidia-blog",
+      "body_text": "The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems. To help meet that challenge, NVIDIA is collaborating with industry leaders Cadence and Synopsys to optimize critical electronic design automation (EDA) applications for the NVIDIA Vera CPU. NVIDIA is now deploying Vera across […]"
+    }
+  ]
+}
