@@ -1,0 +1,13 @@
+{
+  "fetched_at": "2026-08-07T11:39:23.505Z",
+  "articles": [
+    {
+      "id": "07e74b9f17b29d00e33225ad01c5bfc8776d93b61a647f64f8c96eb1771eaf33",
+      "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
+      "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
+      "published_at": "2026-08-06",
+      "source": "nvidia-blog",
+      "body_text": "In July, NVIDIA joined more than 200 companies and organizations in signing “Open Weights and American AI Leadership,” an open letter arguing that AI leadership will be measured not by any single frontier model but by whether an open ecosystem reaches every sector."
+    }
+  ]
+}
