@@ -1,0 +1,29 @@
+{
+  "fetched_at": "2026-08-12T11:40:57.725Z",
+  "articles": [
+    {
+      "id": "6ae5efd1aaa57ef3abf3b24a667c26b87c37d32bd8807d484bd24820bbf0e32e",
+      "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
+      "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+      "published_at": "2026-08-12",
+      "source": "nvidia-blog",
+      "body_text": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capital to support the buildout of AI infrastructure over time. This is a major milestone for NVIDIA and the AI industry. We have moved from an era in which companies […]"
+    },
+    {
+      "id": "a61358e2b4403961144fcacef55eccc59532b6d9b53b4fd6449082bb56110a73",
+      "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
+      "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+      "published_at": "2026-08-11",
+      "source": "nvidia-blog",
+      "body_text": "The open source ecosystem is making it easier for AI enthusiasts and developers to build, customize and run increasingly capable agents locally. Throughout August, NVIDIA is celebrating the partners and open source communities moving local AI forward, along with the models, applications and tools emerging across the ecosystem. That includes NVIDIA’s latest open models, software […]"
+    },
+    {
+      "id": "9428cc2bc3c996d8505a0fdff4b7b0532b635f8bddc4272ecf0fa57da3a9db52",
+      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+      "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
+      "published_at": "2026-08-11",
+      "source": "nvidia-blog",
+      "body_text": "As AI shifts from chatbots to autonomous agents, open models are serving market demands for full control over where AI runs and how it’s deployed and evolves. Today, NVIDIA is expanding its Nemotron 3 model family with Nemotron 3.5 Lightning, the highest-efficiency model in its class for long-running agentic AI workloads. This release follows Nemotron […]"
+    }
+  ]
+}
