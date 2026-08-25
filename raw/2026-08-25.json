@@ -1,0 +1,21 @@
+{
+  "fetched_at": "2026-08-25T11:19:58.923Z",
+  "articles": [
+    {
+      "id": "19af374b78b369cd57e1f50411451ccb06354f9e6cd98048fff15f273f4f72a6",
+      "url": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
+      "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
+      "published_at": "2026-08-24",
+      "source": "nvidia-blog",
+      "body_text": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with fast token generation for agentic systems. Announced today, the NVIDIA Vera Rubin rack-scale system NVIDIA Groq […]"
+    },
+    {
+      "id": "e7e2d0be34e4809da81f22adf5ceeaa34f4e671e015f81fdeb648b8a14ed3edd",
+      "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
+      "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+      "published_at": "2026-08-24",
+      "source": "nvidia-blog",
+      "body_text": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request. Why? Consider what happens when an AI agent researches a company for an investment decision. The agent queries financial databases, searches news and filings, invokes a sub-agent to run peer comparisons and model valuations, then synthesizes everything into a […]"
+    }
+  ]
+}
