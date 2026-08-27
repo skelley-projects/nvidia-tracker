@@ -1,0 +1,21 @@
+{
+  "fetched_at": "2026-08-27T20:52:18.908Z",
+  "articles": [
+    {
+      "id": "0b6ec4660b970cace79cea29b279e50887397e1126aabfb8b5a99561f9d1dd7d",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/",
+      "title": "GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026",
+      "published_at": "2026-08-27",
+      "source": "nvidia-blog",
+      "body_text": "NVIDIA’s Gamescom announcements are revealing what’s next for GeForce NOW, with new ways to play, more supported devices and platforms, and even more big PC games headed to the cloud. New NVIDIA DLSS 4.5 technology controls give members more ways to fine-tune gameplay, while expanded support for new Steam devices, GOG single sign-on, Firefox browser […]"
+    },
+    {
+      "id": "52343a012216677e078ffdd291763971d664b81843a2fed560d68d06e4aac80a",
+      "url": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
+      "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
+      "published_at": "2026-08-26",
+      "source": "nvidia-blog",
+      "body_text": "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are designed together as a unified system. To help hyperscalers and AI innovators build the next generation […]"
+    }
+  ]
+}
