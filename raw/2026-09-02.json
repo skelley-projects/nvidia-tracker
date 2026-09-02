@@ -1,0 +1,13 @@
+{
+  "fetched_at": "2026-09-02T14:51:25.390Z",
+  "articles": [
+    {
+      "id": "e698148a3f7fc4332a7a096ccb301c9dc5192fc3ae5ff0f228d7e4db98d82412",
+      "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
+      "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
+      "published_at": "2026-09-01",
+      "source": "nvidia-blog",
+      "body_text": "“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind, its agentic cybersecurity system developed by the CrowdStrike Cyber […]"
+    }
+  ]
+}
