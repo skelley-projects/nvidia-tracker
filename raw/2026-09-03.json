@@ -1,0 +1,21 @@
+{
+  "fetched_at": "2026-09-03T14:49:56.284Z",
+  "articles": [
+    {
+      "id": "364c97f2144222392d2e7c8918541fe8e6a9162d6d0cecd2c770fab28c1141ee",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
+      "title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
+      "published_at": "2026-09-03",
+      "source": "nvidia-blog",
+      "body_text": "September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to the court — tuned […]"
+    },
+    {
+      "id": "92640b734a56d56cabe470028583c440bc9f85a8199b7a48e5c5d4ab7db977ea",
+      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+      "title": "NVIDIA to Acquire Hugging Face",
+      "published_at": "2026-09-03",
+      "source": "nvidia-blog",
+      "body_text": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for […]"
+    }
+  ]
+}
