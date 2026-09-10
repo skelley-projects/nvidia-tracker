@@ -1,0 +1,21 @@
+{
+  "fetched_at": "2026-09-10T14:42:55.925Z",
+  "articles": [
+    {
+      "id": "5d4dbf40361366649d32a8455e7ae5beff6535f4bddad79cbbeb4d3d4a3ccbaf",
+      "url": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
+      "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
+      "published_at": "2026-09-10",
+      "source": "nvidia-blog",
+      "body_text": "AI inference chipmaker d-Matrix today announced it will use NVIDIA NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of ecosystem partners. By connecting Raptor to NVIDIA NVLink scale-up and Spectrum-X scale-out networking, the NVIDIA MGX rack architecture and the broader NVIDIA AI platform, NVLink Fusion […]"
+    },
+    {
+      "id": "bcd233b8a28d7c92e365258e6282438309fc77c2c4e5d4743c2f58fd6caa9b71",
+      "url": "https://blogs.nvidia.com/blog/ibc-news-2026/",
+      "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
+      "published_at": "2026-09-09",
+      "source": "nvidia-blog",
+      "body_text": "At the IBC conference, running Sept. 11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment industries. More than 44,000 attendees from 170+ countries are gathering to explore 1,300+ exhibitions in 14+ halls and outdoor spaces, with over 600 speakers […]"
+    }
+  ]
+}
