@@ -1,0 +1,21 @@
+{
+  "fetched_at": "2026-09-11T14:45:32.359Z",
+  "articles": [
+    {
+      "id": "c9f232e078296caeb095f6889cecf98bc61984e41a9d3eb3f638d5cab4171c3a",
+      "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
+      "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+      "published_at": "2026-09-10",
+      "source": "nvidia-blog",
+      "body_text": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming. Skild AI’s new S1 robot foundation model helps address this, designed to learn previously unseen, long-horizon tasks from a single video demonstration. The model, launched last week, uses […]"
+    },
+    {
+      "id": "7aa7a69d878311641f053ce8264990a222a24f15d65b3d08d9d62c33854f84f2",
+      "url": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
+      "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
+      "published_at": "2026-09-10",
+      "source": "nvidia-blog",
+      "body_text": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people through some of the world’s busiest and most complex streets. Deploying a driverless vehicle is one challenge. Scaling a fleet is […]"
+    }
+  ]
+}
