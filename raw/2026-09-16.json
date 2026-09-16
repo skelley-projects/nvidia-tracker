@@ -1,0 +1,53 @@
+{
+  "fetched_at": "2026-09-16T15:14:21.066Z",
+  "articles": [
+    {
+      "id": "c60864f37894392f651bb2d9fe1eba34e22c1be3daa431d4b2da6b144c5beebf",
+      "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
+      "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
+      "published_at": "2026-09-16",
+      "source": "nvidia-blog",
+      "body_text": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics. Higher system performance means more tokens generated, resulting in higher revenue. Efficient scaling means throughput grows proportionally as hardware gets added, requiring fewer resources to serve users at scale. Continuous optimization means generating more value from infrastructure investments. […]"
+    },
+    {
+      "id": "30148e42a74b509592d94bfc128cbc78bfbddef04a44feb8a884fe32d0b54643",
+      "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
+      "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
+      "published_at": "2026-09-16",
+      "source": "nvidia-blog",
+      "body_text": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the launch of the AI Energy Management Alliance (AEMA), a first-of-its-kind coalition advancing data centers that can dynamically manage their electricity use […]"
+    },
+    {
+      "id": "76b87e6c9b5821f48a0fd68bc6c3f06a33cbe9e13c892f77123bb41eae4a7556",
+      "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
+      "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
+      "published_at": "2026-09-16",
+      "source": "nvidia-blog",
+      "body_text": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help — but computing air quality with traditional chemistry-based models is expensive, which limits how detailed they can be and how regularly they can be run. David Topping, a professor in the […]"
+    },
+    {
+      "id": "1ab64440a4b28a20f0a80ffc22adb16cd10789a4e96141a79be6adc868fb5ec6",
+      "url": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
+      "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
+      "published_at": "2026-09-15",
+      "source": "nvidia-blog",
+      "body_text": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa — Salesforce’s first CRM reasoning model, built on NVIDIA Nemotron 3 Super. Huang didn’t just take the stage. He walked into […]"
+    },
+    {
+      "id": "01a0a7ededa6d9180189bc7a8134c611ca8d64bdf61863d82afe36c643b90d77",
+      "url": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
+      "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
+      "published_at": "2026-09-15",
+      "source": "nvidia-blog",
+      "body_text": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption. Varun Sivaram was watching on Zoom with about forty others — his team at Emerald AI in their San Francisco conference room, engineers […]"
+    },
+    {
+      "id": "856e25806ef9c8eca4ac0ebe0759e4d396591c77618f74da8b3fcd9e3ebf7306",
+      "url": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
+      "title": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
+      "published_at": "2026-09-15",
+      "source": "nvidia-blog",
+      "body_text": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed into a Coachella of infrastructure tech. Before a packed audience — with more than 8,000 attendees this year, up from 3,500 last year — […]"
+    }
+  ]
+}
