@@ -1,0 +1,21 @@
+{
+  "fetched_at": "2026-09-21T16:43:31.179Z",
+  "articles": [
+    {
+      "id": "7885f786ba9a17ee55d16aeb3e874afd9f150d7f2e16da2eda7c96db543df45b",
+      "url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
+      "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
+      "published_at": "2026-09-21",
+      "source": "nvidia-blog",
+      "body_text": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises — building applications across industries. The event included a keynote from Paolo Guglielmini, vice president of EMEA at NVIDIA. Ahmed Mostafa, regional AI adoption lead […]"
+    },
+    {
+      "id": "7bf2c20eb5a3b5ed48f1a0a4f13d529c81c2ab0b30a5c2a4a2b76d3535fa829b",
+      "url": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
+      "title": "5 Companies Using NVIDIA AI for Clean Energy",
+      "published_at": "2026-09-21",
+      "source": "nvidia-blog",
+      "body_text": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront cost barriers. At New York Climate Week, NVIDIA is highlighting five companies pioneering clean energy projects with AI baked into their foundation, accelerating research-to-inception […]"
+    }
+  ]
+}
