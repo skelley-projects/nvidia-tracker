@@ -1,0 +1,21 @@
+{
+  "fetched_at": "2026-09-22T15:18:58.974Z",
+  "articles": [
+    {
+      "id": "33fd00ceaa5855dfc4011f4cc2a7f4c1a08e8a07efbd4bd4a203462236d1fcaa",
+      "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+      "published_at": "2026-09-22",
+      "source": "nvidia-blog",
+      "body_text": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics that helps humans build robots. NVIDIA Isaac ROS 5.0 — a collection of GPU-accelerated packages built on ROS, released today at […]"
+    },
+    {
+      "id": "e92dddaa918149b7af2765419c26403f23a3af021e1221fca01c6f05e974c375",
+      "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
+      "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+      "published_at": "2026-09-21",
+      "source": "nvidia-blog",
+      "body_text": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fit the complete factory design helps builders turn computing capacity into useful AI output. To help builders make those decisions, NVIDIA is introducing […]"
+    }
+  ]
+}
