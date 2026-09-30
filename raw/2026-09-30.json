@@ -1,0 +1,13 @@
+{
+  "fetched_at": "2026-09-30T16:35:02.630Z",
+  "articles": [
+    {
+      "id": "db0812d61ea7fb047ed0b06544febb8845b85f25da672d098cd9e2fdb56d6d93",
+      "url": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
+      "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
+      "published_at": "2026-09-30",
+      "source": "nvidia-blog",
+      "body_text": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next generation of NVIDIA infrastructure to production. At CoreWeave Fully Connected, running this week in San Francisco, CoreWeave announced […]"
+    }
+  ]
+}
