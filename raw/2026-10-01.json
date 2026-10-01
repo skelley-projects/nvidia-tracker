@@ -1,0 +1,21 @@
+{
+  "fetched_at": "2026-10-01T17:13:01.548Z",
+  "articles": [
+    {
+      "id": "b421bcddf08b4fb7efd1eb1397f4afbbac011fd400e9435748f403de024c949d",
+      "url": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
+      "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
+      "published_at": "2026-10-01",
+      "source": "nvidia-blog",
+      "body_text": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment. Three key things shape AI factory returns: Earning capacity: What the factory could earn in a year […]"
+    },
+    {
+      "id": "880bbed0e07a3f69d412ccc6a979192398e808b77684bca920c8e0e12ee60bd4",
+      "url": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
+      "title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
+      "published_at": "2026-09-30",
+      "source": "nvidia-blog",
+      "body_text": "Bringing together the world’s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems. To foster such innovation, the NVIDIA Graduate Fellowship Program provides grants, mentors and technical support to doctoral students doing outstanding research relevant to NVIDIA technologies. The program, in its 26th […]"
+    }
+  ]
+}
