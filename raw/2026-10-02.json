@@ -1,0 +1,21 @@
+{
+  "fetched_at": "2026-10-02T16:26:36.906Z",
+  "articles": [
+    {
+      "id": "010abefa0fafcbd406f20f91e7ca4ac072cc5cb80f7f86f6f4a972a8a572bb65",
+      "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+      "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+      "published_at": "2026-10-02",
+      "source": "nvidia-blog",
+      "body_text": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally. Coming this month, NVIDIA DGX Spark will be available with 64GB of unified memory from top manufacturer partners — Acer, […]"
+    },
+    {
+      "id": "72966dd5c0f3c211fde5aef4e687671e75c083cda2c37139106fadeaf5568855",
+      "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
+      "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+      "published_at": "2026-10-01",
+      "source": "nvidia-blog",
+      "body_text": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast offers up to 8x faster token generation than the Astra Standard mode. For developers, […]"
+    }
+  ]
+}
