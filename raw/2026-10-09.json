@@ -1,0 +1,13 @@
+{
+  "fetched_at": "2026-10-09T17:15:40.936Z",
+  "articles": [
+    {
+      "id": "79428cf43613e4131c16b2f45c833d7e87f5fb9b7bf3c33fddcb7e212b8af303",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "published_at": "2026-10-08",
+      "source": "nvidia-blog",
+      "body_text": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]"
+    }
+  ]
+}
