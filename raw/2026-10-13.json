@@ -1,0 +1,21 @@
+{
+  "fetched_at": "2026-10-13T17:52:55.783Z",
+  "articles": [
+    {
+      "id": "a4bbae21d3b4c9572ce6de8017e44ce70d5cd63d7946aa77bbb22ba2b44949c7",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+      "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+      "published_at": "2026-10-13",
+      "source": "nvidia-blog",
+      "body_text": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip. With up to 128GB of unified memory and 1 petaflop of AI compute, RTX Spark delivers the full stack of NVIDIA RTX and […]"
+    },
+    {
+      "id": "a2a8ddf1867ef9361c9265bb53e1e8e6af7fa862abbf87eac05e7f12c5ea1539",
+      "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
+      "title": "NVIDIA Announces New Investments in France’s Startups",
+      "published_at": "2026-10-13",
+      "source": "nvidia-blog",
+      "body_text": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application. France’s progress sits on deliberate groundwork. The AI Action Summit in February 2025 and Choose France Summits in 2025 and 2026 anchored major compute commitments […]"
+    }
+  ]
+}
