@@ -1,0 +1,21 @@
+{
+  "fetched_at": "2026-10-14T15:39:13.869Z",
+  "articles": [
+    {
+      "id": "07ac7e56c4dbe5bbeea48de616f7e65bc6cfe4ed920c4019d26a4fe1ccf5085e",
+      "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+      "title": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
+      "published_at": "2026-10-14",
+      "source": "nvidia-blog",
+      "body_text": "Across industries, the U.K. is putting the full stack to work — and the scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is putting that principle into practice, including through a five-year, $250 million compute commitment to strengthen the U.K.’s agentic safety […]"
+    },
+    {
+      "id": "51408f953358d0aa86346bc79bde4ef810aec87aa95b1fa11d4d2c6afa273cf3",
+      "url": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
+      "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+      "published_at": "2026-10-14",
+      "source": "nvidia-blog",
+      "body_text": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to build physical AI agents and digital twins that help teams make […]"
+    }
+  ]
+}
