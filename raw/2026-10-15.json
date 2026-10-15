@@ -1,0 +1,37 @@
+{
+  "fetched_at": "2026-10-15T15:25:16.628Z",
+  "articles": [
+    {
+      "id": "369f65bd0511e1b4da8810c83fb63da643cf0e2b76b52d1d8fce0d2cf8aa6d4a",
+      "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+      "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+      "published_at": "2026-10-15",
+      "source": "nvidia-blog",
+      "body_text": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized […]"
+    },
+    {
+      "id": "a3afbad9ec0e6d6ec6fc7de853aafcafd11295a87f201debb85067c64b21a6f7",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
+      "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
+      "published_at": "2026-10-15",
+      "source": "nvidia-blog",
+      "body_text": "Dial in the next gaming session this GFN Thursday. New NVIDIA DLSS 4.5 controls give GeForce NOW members more choice over how supported games look and perform in the cloud, even without the latest hardware. Then, step into the Shroud as Keen Games’ Enshrouded leaves early access with its 1.0 release, or let the bolts […]"
+    },
+    {
+      "id": "1d0e2da84176777789828586ba67a396aa72f77722b20a7f96bdaa4886fee17e",
+      "url": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
+      "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
+      "published_at": "2026-10-15",
+      "source": "nvidia-blog",
+      "body_text": "Much of today’s scientific progress begins with computation. But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more — depends on more than breakthrough technology. Especially for smaller labs, early-career scientists or science-based startups, the hardest part of research can be everything that comes before the science: […]"
+    },
+    {
+      "id": "fedbb3936e92270b7feccdf4539ae51386887c9b472c976ad609fb024ad448f6",
+      "url": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
+      "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
+      "published_at": "2026-10-15",
+      "source": "nvidia-blog",
+      "body_text": "The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent. Now, a new chapter for the region is unfolding as countries race to build one of Europe’s most consequential technology ecosystems. The many computing advancements already underway […]"
+    }
+  ]
+}
