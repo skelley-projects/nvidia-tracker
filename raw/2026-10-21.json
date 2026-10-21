@@ -1,0 +1,85 @@
+{
+  "fetched_at": "2026-10-21T15:46:50.020Z",
+  "articles": [
+    {
+      "id": "6822fece1c79cc899786a2c23cf3fd1bfdd1f76680ad53b15841cb666e2d409f",
+      "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
+      "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+      "published_at": "2026-10-21",
+      "source": "nvidia-blog",
+      "body_text": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station serves enterprise teams running frontier workloads on Linux, with a Windows version arriving in December. Announcements include: […]"
+    },
+    {
+      "id": "653d201e8928688350182b453312ba723767e3b6f58ba1722e8a19c83c037a58",
+      "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
+      "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+      "published_at": "2026-10-21",
+      "source": "nvidia-blog",
+      "body_text": "General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers. A5X instances bring together NVIDIA Vera Rubin NVL72, NVIDIA ConnectX-9 SuperNICs, Google Cloud Virgo Network and Google Cloud’s fourth-generation advanced liquid-cooling technology for demanding […]"
+    },
+    {
+      "id": "cb2d9eae775325ba2d47ad9d78f60aaece88be1f4a0ec44c55ad0f8bdf4aedeb",
+      "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
+      "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
+      "published_at": "2026-10-21",
+      "source": "nvidia-blog",
+      "body_text": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure that is secure by design. NVIDIA Cloud Partners across Europe, the Nordics, Africa, and Central Asia are expanding regional compute capacity for […]"
+    },
+    {
+      "id": "ca37162b222176ea5f9c1205df527737842301520dfe4ecf28d6a1465c379aca",
+      "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
+      "title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+      "published_at": "2026-10-21",
+      "source": "nvidia-blog",
+      "body_text": "To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as well as NVIDIA Cosmos and Nemotron open models, across the engineering and manufacturing lifecycle. Bringing those capabilities together on the factory floor, the NVIDIA Factory Operations Blueprint (FOX) is now available in […]"
+    },
+    {
+      "id": "8860c6bfedf824046aa32e7c8dd6d11dc193327076b61e67d691429ca8e34e6e",
+      "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+      "title": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
+      "published_at": "2026-10-21",
+      "source": "nvidia-blog",
+      "body_text": "NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs. Complex engineering feats — from advanced chips to aircraft to industrial systems —– depend on simulation to predict how designs will perform before they’re built. As designs become more complex, simulations […]"
+    },
+    {
+      "id": "ab1f29b681fe09cc1e449b6ed2109d051e1decdaf07d86b40ccd607b277c4daf",
+      "url": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
+      "title": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
+      "published_at": "2026-10-21",
+      "source": "nvidia-blog",
+      "body_text": "NVIDIA builds tools to enable safe agents across the stack. The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely deploy agents at scale. NVIDIA Confidential Computing is the infrastructure layer that protects the models and data those agents depend on while running. Today, NVIDIA […]"
+    },
+    {
+      "id": "301b0a5a7c01472977a81e48ba0507280c56fde8e05d386e8798eb534cbc8ad9",
+      "url": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
+      "title": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
+      "published_at": "2026-10-21",
+      "source": "nvidia-blog",
+      "body_text": "Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within. Leading enterprises are using the open source NVIDIA Agent Toolkit — now expanded with new tools — to customize and control agents, use company data to inform their answers and actions, monitor what they do and […]"
+    },
+    {
+      "id": "fe2b50db8dabc11e230271d542a5653081414c4e15567dca46202ba3da24ae4b",
+      "url": "https://blogs.nvidia.com/blog/open-models-europe-industry/",
+      "title": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
+      "published_at": "2026-10-21",
+      "source": "nvidia-blog",
+      "body_text": "NVIDIA is expanding its family of open models across language, robotics, biology, and quantum computing, giving developers, researchers and enterprises what they need to build applications tailored to local languages and industries The portfolio includes the new NVIDIA Nemotron 3.5 Super VL and Nemotron 3.5 Bolt models; new NVIDIA Nemotron Retriever models for embedding, reranking […]"
+    },
+    {
+      "id": "7882d35c8c318e7bb50beda6edbdbed8df22b3900603bf32f07703b43c9b8f57",
+      "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
+      "title": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
+      "published_at": "2026-10-21",
+      "source": "nvidia-blog",
+      "body_text": "Founded in a tent near the Berlin Wall in 1980, the Tempodrom moved several times before settling near Anhalter Bahnhof in 2001. Its permanent home has since hosted concerts, galas and political events. Today, it hosts a different kind of spectacle. GTC Berlin runs three days, with more than 100 sessions on agentic AI, robotics, […]"
+    },
+    {
+      "id": "f17b97a4336d6686950a14dbade464fdac0a04a89ea58c7378c37792cd49133c",
+      "url": "https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure/",
+      "title": "European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure",
+      "published_at": "2026-10-20",
+      "source": "nvidia-blog",
+      "body_text": "Nebius and Nscale are among global technology partners looking to NVIDIA Vera CPUs to build the next wave of infrastructure. Their momentum reflects rapid advancements in agentic computing. Agents do more than generate answers: they retrieve information, run software tools, execute code and evaluate results. Each step depends on fast CPU processing. Vera accelerates that […]"
+    }
+  ]
+}
