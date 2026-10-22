@@ -1,0 +1,61 @@
+{
+  "fetched_at": "2026-10-22T15:45:15.330Z",
+  "articles": [
+    {
+      "id": "2c1c1d0b09d0e274e1a661fddec3b1e1a572e8e1220966a1723e083500a741dd",
+      "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+      "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+      "published_at": "2026-10-22",
+      "source": "nvidia-blog",
+      "body_text": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast […]"
+    },
+    {
+      "id": "f22a63cc12b9be5044807d053d8738db80e2e86d0370bed3033fb387bc3b1a06",
+      "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
+      "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+      "published_at": "2026-10-22",
+      "source": "nvidia-blog",
+      "body_text": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models and running on their own infrastructure. Revolut is rebuilding its technology stack on a single foundation model PRAGMA, powered by NVIDIA accelerated computing. Using the NVIDIA cuDF […]"
+    },
+    {
+      "id": "36ee8fe7cab29f5dfbb84b946618433a326d204373cb09e0d1847192d43345cc",
+      "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+      "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+      "published_at": "2026-10-22",
+      "source": "nvidia-blog",
+      "body_text": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints. Ranking top five on six different open models leaderboards, the NVIDIA Cosmos platform gives world model builders the frontier open […]"
+    },
+    {
+      "id": "7d13ce0e971c17c77553a630ca8e56a9e59c621bb650ab0a1c67b50a738d277f",
+      "url": "https://blogs.nvidia.com/blog/dsx-power/",
+      "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
+      "published_at": "2026-10-22",
+      "source": "nvidia-blog",
+      "body_text": "Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack. Their adoption of the platform responds to an acute problem. Power is now the biggest bottleneck in infrastructure. More than $300 billion […]"
+    },
+    {
+      "id": "898575ccc2fcbfd5eae1b5817ece44c53bb0820140b5be93fd6a235b29610654",
+      "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+      "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
+      "published_at": "2026-10-22",
+      "source": "nvidia-blog",
+      "body_text": "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of different robotic fleets is simulated inside a digital twin. Frontier Results With Open Models Retail leaders and technology companies across Europe are using NVIDIA-accelerated open […]"
+    },
+    {
+      "id": "89a4e6d4e0e5bb84c8c4a86440e37f61766b72364e2eaad434aa332df0b4507f",
+      "url": "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
+      "title": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
+      "published_at": "2026-10-22",
+      "source": "nvidia-blog",
+      "body_text": "Weather forecasts shape more than daily plans; timely weather information is crucial for energy producers, insurers and transport operators to plan around changing conditions. A global forecast can show a storm taking shape, but decisions about solar farms, shipping routes or insured property depend on what happens locally. NVIDIA Earth-2 gives developers and researchers a […]"
+    },
+    {
+      "id": "bc7e4740517cd6fe1e42dac421c39ad4d6c0b665b7750616ae9dd22d916801f3",
+      "url": "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
+      "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
+      "published_at": "2026-10-22",
+      "source": "nvidia-blog",
+      "body_text": "Governments need modern solutions to serve the public while keeping sensitive information under their control. Open models provide a path forward, letting governments evaluate them, adapt them to local languages and public services, run them on infrastructure they control, apply their own safeguards and keep sensitive data within controlled environments. Some open models go further, […]"
+    }
+  ]
+}
