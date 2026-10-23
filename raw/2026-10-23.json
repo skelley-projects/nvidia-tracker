@@ -1,0 +1,13 @@
+{
+  "fetched_at": "2026-10-23T15:34:17.627Z",
+  "articles": [
+    {
+      "id": "90e35913e5ba3eb8b4a92f72a9102af196230e962dff7b01553c19cb66fcc9b7",
+      "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+      "title": "Kazakhstan Expands Compute for Its AI Future",
+      "published_at": "2026-10-23",
+      "source": "nvidia-blog",
+      "body_text": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. The announcements below — coinciding with a visit to Astana by NVIDIA founder and CEO Jensen Huang — point to the nation’s increasing supply of accelerated computing, along with […]"
+    }
+  ]
+}
