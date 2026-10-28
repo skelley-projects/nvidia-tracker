@@ -1,0 +1,13 @@
+{
+  "fetched_at": "2026-10-28T16:56:08.371Z",
+  "articles": [
+    {
+      "id": "7281347817fe3ba228cd868488ca8c0cc27ca6f71c01ffcfde7bc19727cc20fa",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+      "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+      "published_at": "2026-10-28",
+      "source": "nvidia-blog",
+      "body_text": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified […]"
+    }
+  ]
+}
