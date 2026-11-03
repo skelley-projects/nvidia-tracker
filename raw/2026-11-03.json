@@ -1,0 +1,13 @@
+{
+  "fetched_at": "2026-11-03T18:10:38.174Z",
+  "articles": [
+    {
+      "id": "2eec94a2d2923fe401839408aecbb738d2e7f4aeee060a83ec0a7d54b9350302",
+      "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+      "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+      "published_at": "2026-11-03",
+      "source": "nvidia-blog",
+      "body_text": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physical and agentic AI offer new ways to close that gap, from digital twins for infrastructure planning to vision and service agents, while keeping local governments […]"
+    }
+  ]
+}
