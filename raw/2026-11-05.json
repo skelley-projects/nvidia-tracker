@@ -1,0 +1,29 @@
+{
+  "fetched_at": "2026-11-05T18:24:48.083Z",
+  "articles": [
+    {
+      "id": "1f284cf74f35c5cb7fd54f7276b8b096f3ae978939bcba397546a82945c10582",
+      "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
+      "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+      "published_at": "2026-11-05",
+      "source": "nvidia-blog",
+      "body_text": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language models (LLMs) practical for working developers. […]"
+    },
+    {
+      "id": "064fb88520fa5af6f591c843bd577c61ee6e0e174fcff59e762fc98fd76762f5",
+      "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
+      "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
+      "published_at": "2026-11-05",
+      "source": "nvidia-blog",
+      "body_text": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term. NVIDIA works closely with memory partners to rapidly adopt the latest memory technologies. NVIDIA was first to adopt HBM3e and HBM4 technologies into an accelerated computing stack. […]"
+    },
+    {
+      "id": "434802a6a530e968649e7207cd6d7e5e00013dc6cf70d26005d5f0bcabed2537",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
+      "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
+      "published_at": "2026-11-05",
+      "source": "nvidia-blog",
+      "body_text": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment’s World of Warcraft: Forever also opens a new chapter in Azeroth, with a launch-week access reward available for GeForce NOW members. Meanwhile, Ubisoft brings fresh challenges with expansions […]"
+    }
+  ]
+}
