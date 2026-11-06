@@ -1,0 +1,13 @@
+{
+  "fetched_at": "2026-11-06T17:46:08.832Z",
+  "articles": [
+    {
+      "id": "0676c12db8f0f583e52d70063b46f3fe0d6769d69c1e43089dbe5afd6ec9198e",
+      "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+      "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+      "published_at": "2026-11-06",
+      "source": "nvidia-blog",
+      "body_text": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless […]"
+    }
+  ]
+}
