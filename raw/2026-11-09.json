@@ -1,0 +1,53 @@
+{
+  "fetched_at": "2026-11-09T21:14:31.664Z",
+  "articles": [
+    {
+      "id": "6e07690c27eb09da199b1ed71f33da28b1f5747b3dcf123db769cc0412fda907",
+      "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+      "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+      "published_at": "2026-11-09",
+      "source": "nvidia-blog",
+      "body_text": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion to manipulation is taking center stage at this week’s Conference on Robot Learning (CoRL) in […]"
+    },
+    {
+      "id": "86c270bf47b54ff7a1abd1cad344610cca6284cfddc8db763b2e14f14e1fcb8c",
+      "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+      "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "published_at": "2026-11-09",
+      "source": "nvidia-blog",
+      "body_text": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with […]"
+    },
+    {
+      "id": "d08694737b722c2bcd90894d42d5ec4c1deb93659d63df8b25f1d5d2a14fad24",
+      "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "published_at": "2026-11-09",
+      "source": "nvidia-blog",
+      "body_text": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helping bring physical AI from development into real-world production. Samsung Advances Semiconductor Engineering With […]"
+    },
+    {
+      "id": "77625322d468416753cd2c75a15149130e9fac1180cfa7924128d741c71ab51f",
+      "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+      "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "published_at": "2026-11-09",
+      "source": "nvidia-blog",
+      "body_text": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employee productivity and enterprise workflows. A key […]"
+    },
+    {
+      "id": "698f0868e7dfb4466fa9ba553bfd72446c3287769c2c6eeb82db13c1890f3276",
+      "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+      "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+      "published_at": "2026-11-09",
+      "source": "nvidia-blog",
+      "body_text": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore participation in the NVIDIA NVLink Fusion ecosystem, and includes […]"
+    },
+    {
+      "id": "eb25380cc5e40adbd793dea9c553f14d3de8eaf5bc75b80191827574a29713fd",
+      "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+      "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+      "published_at": "2026-11-09",
+      "source": "nvidia-blog",
+      "body_text": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing […]"
+    }
+  ]
+}
