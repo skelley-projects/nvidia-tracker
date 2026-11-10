@@ -1,0 +1,13 @@
+{
+  "fetched_at": "2026-11-10T18:23:24.846Z",
+  "articles": [
+    {
+      "id": "8eec2e0e61665676840d0b1f86084f9dc3baf1e5cbc1d510d1f504665eafdec3",
+      "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+      "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+      "published_at": "2026-11-10",
+      "source": "nvidia-blog",
+      "body_text": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes and cloud-native communities. NVIDIA […]"
+    }
+  ]
+}
