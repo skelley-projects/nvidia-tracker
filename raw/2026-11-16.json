@@ -1,0 +1,77 @@
+{
+  "fetched_at": "2026-11-16T20:45:24.231Z",
+  "articles": [
+    {
+      "id": "a9995c40a3422c0483b7ef52154a14c5323ace6b568c7bc04387073b6aeee1a3",
+      "url": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
+      "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+      "published_at": "2026-11-16",
+      "source": "nvidia-blog",
+      "body_text": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their global network of manufacturing partners enable NVIDIA to introduce world-leading technologies year-round. Much of the […]"
+    },
+    {
+      "id": "742a0adaef2e254494df2129dea1fad036ebdf3c1b79206ffc5f2ac28485df9d",
+      "url": "https://blogs.nvidia.com/blog/lambda-photonics/",
+      "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+      "published_at": "2026-11-16",
+      "source": "nvidia-blog",
+      "body_text": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) switches. The cloud provider is using the switches to connect NVIDIA GB300 NVL72 racks with more than 10,000 GPUs, delivering […]"
+    },
+    {
+      "id": "0dc8b1c6d09938c16b106ecab910d2faa34d20b2039e5221ddd96fcb82ccd47b",
+      "url": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
+      "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
+      "published_at": "2026-11-16",
+      "source": "nvidia-blog",
+      "body_text": "Quantum processor deployments at supercomputing centers have grown nearly sevenfold over the past five years, with nearly 30 supercomputing centers around the world now in the process of deploying over 50 quantum processors. Many of these centers use Slurm to run scientific supercomputing workloads, so expanding its support for quantum processors builds on familiar workflows […]"
+    },
+    {
+      "id": "891aa0f995d12bb58740a8c9f7f345484f98eb5494f2057d2f3e5d885a23b586",
+      "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+      "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+      "published_at": "2026-11-16",
+      "source": "nvidia-blog",
+      "body_text": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, delivered more than 10x generational gains in throughput per watt for agentic AI — measuring how much agentic […]"
+    },
+    {
+      "id": "4e397e27d38f36eaba2add47826548dd827eee8c27023d4886c1ce24ec7537d4",
+      "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
+      "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+      "published_at": "2026-11-16",
+      "source": "nvidia-blog",
+      "body_text": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology. The speedups are helping scientists analyze larger datasets and model more complex systems. The new libraries give AI agents the tools to help researchers make discoveries […]"
+    },
+    {
+      "id": "bcc40eb1eee4216ca06dd498dab8bda21ae0da1e547c934933d3705ef9e82739",
+      "url": "https://blogs.nvidia.com/blog/20-years-cuda/",
+      "title": "CUDA at 20: How the Platform Transformed Scientific Computing",
+      "published_at": "2026-11-16",
+      "source": "nvidia-blog",
+      "body_text": "This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI. CUDA’s 20th anniversary presents an occasion to reflect across computing eras, from the people who wrote the very first CUDA programs to the AI developers […]"
+    },
+    {
+      "id": "8f02058f4a02dc51d60cbdb38cdf4501cebda99dcae2a05e274482d423f2ea3a",
+      "url": "https://blogs.nvidia.com/blog/rubin-hpc/",
+      "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
+      "published_at": "2026-11-16",
+      "source": "nvidia-blog",
+      "body_text": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows. As agents help scientists and engineers explore more candidate materials, molecules and designs, they rely on simulations to test those ideas and guide their next […]"
+    },
+    {
+      "id": "d16c86f834412880e1d6e0a8f3e1637093761f1188d38a9cc2c3c42785bc406c",
+      "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+      "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+      "published_at": "2026-11-16",
+      "source": "nvidia-blog",
+      "body_text": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weight,” with Doosan Robotics, Hyundai […]"
+    },
+    {
+      "id": "39d06ac9951051ce17214206db39ae0c1db087702d3f58db9fd4058439689df5",
+      "url": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
+      "title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
+      "published_at": "2026-11-16",
+      "source": "ieee-spectrum",
+      "body_text": "This article is brought to you by VicOne. VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem. These include projects developed or maintained by Google, NVIDIA, and Meta, among others. Based on initial validation, all 28 findings are classified as zero-day vulnerabilities. The count may change following vendor and vulnerability-authority review, and some findings do not yet have CVE tracking numbers. Many of these tools help teams train, simulate, test, and operate robots. Weaknesses in them could influence the models teams build, the test results they trust, and the instructions sent to robots. These findings create two demands for robotics teams: responding as AI helps uncover weaknesses faster, and assessing how each one could affect robot safety and operations. What AI changes about vulnerability discovery Vulnerability discovery involves examining code, tracing how systems communicate, and testing whether a suspected weakness can actually be exploited. AI can accelerate parts of this work, helping researchers analyze more software in less time. Attackers could use similar capabilities. When the weakness is a zero-day — previously unknown and without an available fix — faster discovery can leave teams with little time to respond. While that exposure does not necessarily mean an attack has occurred, teams still need to determine whether they use the affected software and what an attacker could access or change. Where the findings sit across the robot lifecycle VicOne’s findings span three stages of the robotics lifecycle: development and training, simulation and validation, and deployment and runtime. Weaknesses at each stage could affect what a robot learns, how it is tested, and how it is controlled. Figure 1. In this research set, 75% of findings involved development, training, simulation, or validation tools, highlighting risks that can arise before a robot is deployed.VicOne The following scenarios show how a compromised component could influence the robot at each stage. Development and training: Hidden changes can reach the finished robot A team downloads a pretrained model to adapt for its robot. Loading a malicious file could give an attacker access to the training system, allowing changes to training data or the model itself. A manipulated model could behave normally during routine testing but respond incorrectly to a particular object, scene, or command after deployment. The risk can enter through a tool the team trusts, before anyone attacks the robot directly. Simulation and validation: A passing test could give false confidence Importing a compromised scene or robot model could give an attacker access to the simulation environment. With sufficient control, the attacker could alter simulated sensor readings, physical conditions, or test results. A robot could then appear to pass tests that should have exposed unsafe behavior, leading the team to approve it for real-world use on the basis of misleading evidence. Deployment and runtime: Operators could lose visibility or control An attacker could exploit weaknesses to change files that influence motion planning or send malicious map data that crashes the operator’s monitoring display. Compromising a remote-operation computer could also put the instructions sent to the robot at risk. Depending on the system and its safeguards, these weaknesses could alter robot movement or leave operators unable to see what is happening and respond promptly. These are potential consequences and not demonstrated outcomes for every finding. Actual effects depend on the attacker’s access, the system’s design, and whether other safeguards prevent the changes from reaching physical behavior. In a separate demonstration, VicOne researchers provide a concrete example of a weakness affecting a protective function. The researchers exploited a vulnerability to prevent a robot’s remote-stop command from working. The case shows why teams need to test whether safeguards remain effective when the software supporting them is compromised. Video 1. VicOne researchers demonstrate a vulnerability that prevents a robot’s remote-stop command from working. VicOne A published patch still needs to be proven safe AI can shorten the search for weaknesses, but a robotics team still needs to determine whether a fix is safe to deploy. Even after a software maintainer releases a patch, teams must identify affected systems, check compatibility, and verify that the update preserves intended behavior. An earlier successful test remains useful evidence. However, a newly discovered weakness may reveal conditions that test never examined. Three questions can help teams respond: Where do we use the affected software? Include training computers, simulation environments, and deployed robots. What could the weakness change? Assess whether it could affect models, test results, operator visibility, or robot behavior. How do we verify protection? Confirm that the fix addresses the weakness and that the updated system still operates as intended. When immediate updating is impractical, teams may need temporary safeguards, such as restricting access to an affected service, while a validated fix is prepared. From discovery to safer deployment As details from the 28 findings become available through coordinated disclosure, the next step is for robotics manufacturers is to connect each finding to its potential effect on development, deployment, and robot behavior. That work also requires understanding how threats could affect robot behavior and how to protect systems already in operation. VicOne Radeis helps teams identify potential zero-day vulnerabilities, assess AI model and system security, and use simulation to evaluate how these risks could affect robot behavior before deployment. VicOne Rthena supports threat detection and responses within approved policies during operation. Figure 2. Cybersecurity strengthens robot safety evidence throughout the lifecycle. VicOne helps teams test safety limits against manipulation before deployment and monitor the conditions behind safe behavior in operation.VicOne Faster vulnerability discovery matters when teams can turn findings into action: identify what needs attention, verify that safeguards still hold, and confirm that a fix does not introduce new risks. That is how cybersecurity strengthens robot safety as systems continue to change. For a deeper look how cybersecurity can affect robot safety, download our white paper, “Why Robot Safety Depends on Cybersecurity: Protecting the Information That Safety Decisions Rely On.”"
+    }
+  ]
+}
