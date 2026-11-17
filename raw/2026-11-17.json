@@ -1,0 +1,21 @@
+{
+  "fetched_at": "2026-11-17T19:30:09.329Z",
+  "articles": [
+    {
+      "id": "011b27afc6a841bff218ff10f7e7a10a5094a3a75295a7bb8ab437c19b3b0ee7",
+      "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+      "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      "published_at": "2026-11-17",
+      "source": "nvidia-blog",
+      "body_text": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance […]"
+    },
+    {
+      "id": "9634b5e75ef12012977b21471b7e0247ec56ed450e0238f632d512a6c9ba5edf",
+      "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+      "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+      "published_at": "2026-11-16",
+      "source": "nvidia-blog",
+      "body_text": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbors in a ring, with an NVIDIA HPC SDK installation playbook coming […]"
+    }
+  ]
+}
