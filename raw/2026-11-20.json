@@ -1,0 +1,13 @@
+{
+  "fetched_at": "2026-11-20T18:55:42.904Z",
+  "articles": [
+    {
+      "id": "88461657b387a0e65112d757808f4c7523c95b9da9cb6790adfa18487761a556",
+      "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+      "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+      "published_at": "2026-11-19",
+      "source": "nvidia-blog",
+      "body_text": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and Windows PCs. At Microsoft Ignite, the companies are expanding access to Azure virtual machines powered by NVIDIA Vera Rubin NVL72 systems, as well as adding customer availability to […]"
+    }
+  ]
+}
